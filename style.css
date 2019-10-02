@@ -1,3 +1,85 @@
+@import url("https://use.typekit.net/kuz5htf.css");
+
+body{
+    position: relative;
+    background-color: #240000;
+}
+
+pre{
+
+    display: none;
+}
+
+hr{
+    display: none;
+
+}
+
+.boxx{
+    font-size: .5em;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: none;
+}
+
+.cb:nth-of-type(1){
+    color: white;
+    font-size: .3em;
+    margin-left: 6vw;
+    text-align: left;
+}
+
+.figcenter>img{
+    position: absolute;
+    width: 12%;
+    height: auto;
+    margin-left: 79vw;
+    margin-top: 24vh;
+    
+}
+
+h1:nth-of-type(1){
+
+    color: #C5351F;
+    text-align: left;
+    margin-left: 6vw;
+    font-size: 6.4em;
+    font-family: mrs-eaves, serif;
+    font-weight: 400;
+    font-style: normal;  
+    margin-top: 30vh;
+}
+
+p:nth-of-type(3){
+    position: relative;
+   
+}
+
+.cb i:first-child{
+    position: absolute;
+    left: 50.5vw;
+    top: -8.8vw;
+    color: #B77171;
+    font-size: 1.9em;
+    font-style: normal;
+    font-family: mrs-eaves, serif;
+    
+}
+
+.cb big big:first-child{
+    position: absolute;
+    color: #B77171;
+    left: 55vw;
+    top: -9.4vw;
+    color: #B77171;
+    font-size: 1.9em;
+    font-family: mrs-eaves, serif;
+}
+
+.cb>img{
+   margin:7vw;
+}
 
 /* tablet*/
 @media only screen and (min-width:800px) and (max-width: 1280px){
